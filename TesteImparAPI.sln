@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteImparAPI", "TesteImparAPI\TesteImparAPI.csproj", "{9C57AA38-084D-452F-9994-7406FE4BCACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{C3D8E459-A3E1-47B0-9294-D3F2AC56EEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C57AA38-084D-452F-9994-7406FE4BCACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C57AA38-084D-452F-9994-7406FE4BCACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C57AA38-084D-452F-9994-7406FE4BCACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C57AA38-084D-452F-9994-7406FE4BCACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D8E459-A3E1-47B0-9294-D3F2AC56EEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D8E459-A3E1-47B0-9294-D3F2AC56EEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D8E459-A3E1-47B0-9294-D3F2AC56EEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D8E459-A3E1-47B0-9294-D3F2AC56EEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE709763-90EA-463B-89E8-0B05E4775B92}
+	EndGlobalSection
+EndGlobal
